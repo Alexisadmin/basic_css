@@ -1,0 +1,23 @@
+.content{
+    color: blue;
+    width: 50%;
+    padding: 10px;
+    background: white;
+    
+    box-shadow: 5px 5px
+     #888888;
+}
+
+p
+{
+    text-shadow: 4px 1px
+     4px #8f8383;
+    font-size: 32px;
+    text-align: center;
+}
+.container{
+    background: green;
+    padding: 10px 15px;
+ 
+    color: white;
+}
